@@ -1,0 +1,1501 @@
+player_id,registration_date,country,acquisition_channel
+1,2026-01-15,Malta,Organic
+2,2026-01-08,Germany,Organic
+3,2026-03-14,United Kingdom,Organic
+4,2026-01-20,Sweden,Affiliate
+5,2026-02-04,United Kingdom,Social
+6,2026-03-01,Sweden,Affiliate
+7,2026-03-10,Malta,Organic
+8,2026-02-03,United Kingdom,Affiliate
+9,2026-01-26,Sweden,Paid Search
+10,2026-03-10,United Kingdom,Paid Search
+11,2026-02-18,United Kingdom,Paid Search
+12,2026-03-03,Germany,Organic
+13,2026-01-15,United Kingdom,Organic
+14,2026-02-16,Malta,Affiliate
+15,2026-01-11,Sweden,Paid Search
+16,2026-01-17,United Kingdom,Affiliate
+17,2026-03-09,Malta,Affiliate
+18,2026-02-18,United Kingdom,Paid Search
+19,2026-03-05,United Kingdom,Paid Search
+20,2026-02-04,Germany,Affiliate
+21,2026-02-08,United Kingdom,Organic
+22,2026-03-16,Sweden,Social
+23,2026-01-04,United Kingdom,Organic
+24,2026-01-07,Germany,Social
+25,2026-03-09,Sweden,Paid Search
+26,2026-02-13,Sweden,Affiliate
+27,2026-03-04,United Kingdom,Affiliate
+28,2026-02-05,Germany,Affiliate
+29,2026-01-04,United Kingdom,Organic
+30,2026-01-11,Malta,Social
+31,2026-01-04,Germany,Affiliate
+32,2026-02-27,Sweden,Organic
+33,2026-01-23,Sweden,Affiliate
+34,2026-02-15,Germany,Organic
+35,2026-03-02,Sweden,Paid Search
+36,2026-01-05,United Kingdom,Social
+37,2026-01-19,Malta,Affiliate
+38,2026-02-07,United Kingdom,Paid Search
+39,2026-02-27,United Kingdom,Affiliate
+40,2026-02-07,Sweden,Social
+41,2026-03-14,Germany,Social
+42,2026-03-12,United Kingdom,Paid Search
+43,2026-01-31,Germany,Affiliate
+44,2026-01-22,United Kingdom,Organic
+45,2026-01-12,Germany,Affiliate
+46,2026-02-13,Sweden,Affiliate
+47,2026-03-01,United Kingdom,Organic
+48,2026-01-14,Sweden,Organic
+49,2026-02-19,United Kingdom,Organic
+50,2026-02-11,United Kingdom,Organic
+51,2026-02-13,Sweden,Affiliate
+52,2026-02-14,Malta,Organic
+53,2026-01-07,Sweden,Paid Search
+54,2026-01-21,United Kingdom,Social
+55,2026-01-04,Germany,Paid Search
+56,2026-03-15,Malta,Organic
+57,2026-01-27,United Kingdom,Organic
+58,2026-02-24,Sweden,Affiliate
+59,2026-02-08,United Kingdom,Organic
+60,2026-01-21,United Kingdom,Paid Search
+61,2026-02-15,Sweden,Organic
+62,2026-02-28,Germany,Affiliate
+63,2026-01-14,Germany,Organic
+64,2026-02-03,United Kingdom,Affiliate
+65,2026-03-04,United Kingdom,Paid Search
+66,2026-03-06,Sweden,Social
+67,2026-02-11,Sweden,Social
+68,2026-01-01,Sweden,Organic
+69,2026-02-25,United Kingdom,Social
+70,2026-02-24,United Kingdom,Paid Search
+71,2026-02-01,Sweden,Affiliate
+72,2026-01-13,United Kingdom,Organic
+73,2026-02-04,Malta,Affiliate
+74,2026-01-07,Sweden,Organic
+75,2026-03-14,United Kingdom,Affiliate
+76,2026-01-03,Sweden,Social
+77,2026-01-25,Malta,Organic
+78,2026-01-18,Germany,Organic
+79,2026-01-12,United Kingdom,Paid Search
+80,2026-02-28,Sweden,Paid Search
+81,2026-02-24,United Kingdom,Affiliate
+82,2026-02-03,Germany,Organic
+83,2026-02-28,United Kingdom,Affiliate
+84,2026-02-17,Germany,Organic
+85,2026-02-06,Malta,Organic
+86,2026-01-04,Germany,Paid Search
+87,2026-02-18,Malta,Affiliate
+88,2026-02-10,Sweden,Affiliate
+89,2026-02-23,Malta,Paid Search
+90,2026-03-08,Sweden,Affiliate
+91,2026-01-05,Germany,Affiliate
+92,2026-02-28,United Kingdom,Paid Search
+93,2026-03-11,Germany,Organic
+94,2026-02-14,United Kingdom,Paid Search
+95,2026-01-22,Malta,Affiliate
+96,2026-01-29,Sweden,Affiliate
+97,2026-02-18,Germany,Paid Search
+98,2026-02-09,Sweden,Paid Search
+99,2026-02-27,Sweden,Affiliate
+100,2026-01-01,United Kingdom,Paid Search
+101,2026-02-15,United Kingdom,Organic
+102,2026-03-15,Sweden,Affiliate
+103,2026-03-02,United Kingdom,Organic
+104,2026-02-07,Sweden,Paid Search
+105,2026-01-09,Malta,Paid Search
+106,2026-03-09,Sweden,Organic
+107,2026-02-19,Sweden,Social
+108,2026-01-08,United Kingdom,Organic
+109,2026-02-09,Germany,Affiliate
+110,2026-03-11,United Kingdom,Paid Search
+111,2026-02-22,Malta,Organic
+112,2026-01-11,Sweden,Organic
+113,2026-01-21,Sweden,Paid Search
+114,2026-01-05,United Kingdom,Paid Search
+115,2026-01-06,Germany,Organic
+116,2026-03-02,Germany,Paid Search
+117,2026-03-03,Sweden,Organic
+118,2026-02-13,Sweden,Affiliate
+119,2026-03-09,United Kingdom,Affiliate
+120,2026-03-12,United Kingdom,Affiliate
+121,2026-03-08,United Kingdom,Affiliate
+122,2026-02-01,Sweden,Organic
+123,2026-01-12,United Kingdom,Social
+124,2026-01-12,United Kingdom,Organic
+125,2026-02-25,Sweden,Organic
+126,2026-03-02,Sweden,Organic
+127,2026-03-14,Malta,Paid Search
+128,2026-03-07,Sweden,Paid Search
+129,2026-02-16,Sweden,Organic
+130,2026-03-12,United Kingdom,Paid Search
+131,2026-01-10,Sweden,Organic
+132,2026-03-08,Germany,Paid Search
+133,2026-01-17,Sweden,Affiliate
+134,2026-03-07,United Kingdom,Organic
+135,2026-02-12,United Kingdom,Affiliate
+136,2026-02-26,United Kingdom,Organic
+137,2026-01-24,United Kingdom,Social
+138,2026-01-23,Malta,Affiliate
+139,2026-02-24,United Kingdom,Paid Search
+140,2026-01-09,Sweden,Affiliate
+141,2026-02-23,Sweden,Affiliate
+142,2026-02-20,Sweden,Affiliate
+143,2026-02-23,United Kingdom,Organic
+144,2026-01-12,Sweden,Affiliate
+145,2026-01-07,Malta,Affiliate
+146,2026-01-24,Malta,Affiliate
+147,2026-03-14,Sweden,Organic
+148,2026-01-07,United Kingdom,Affiliate
+149,2026-01-18,United Kingdom,Paid Search
+150,2026-03-08,Malta,Organic
+151,2026-02-13,Germany,Paid Search
+152,2026-01-28,Malta,Social
+153,2026-01-20,United Kingdom,Affiliate
+154,2026-03-07,Sweden,Social
+155,2026-01-06,Sweden,Affiliate
+156,2026-01-11,United Kingdom,Affiliate
+157,2026-01-16,Malta,Affiliate
+158,2026-01-20,Malta,Organic
+159,2026-02-20,Sweden,Affiliate
+160,2026-03-02,Germany,Affiliate
+161,2026-01-22,Sweden,Organic
+162,2026-01-20,Malta,Affiliate
+163,2026-02-17,United Kingdom,Paid Search
+164,2026-01-15,United Kingdom,Paid Search
+165,2026-03-11,Sweden,Paid Search
+166,2026-01-08,United Kingdom,Paid Search
+167,2026-02-09,Sweden,Affiliate
+168,2026-01-21,United Kingdom,Paid Search
+169,2026-02-09,Sweden,Affiliate
+170,2026-03-07,United Kingdom,Paid Search
+171,2026-01-05,Sweden,Social
+172,2026-03-08,Germany,Paid Search
+173,2026-02-12,Germany,Affiliate
+174,2026-02-02,Malta,Affiliate
+175,2026-02-02,United Kingdom,Affiliate
+176,2026-02-19,Sweden,Paid Search
+177,2026-01-18,Malta,Affiliate
+178,2026-03-14,Sweden,Paid Search
+179,2026-03-11,United Kingdom,Affiliate
+180,2026-01-01,Sweden,Paid Search
+181,2026-02-02,Sweden,Affiliate
+182,2026-01-23,Malta,Paid Search
+183,2026-02-05,Germany,Paid Search
+184,2026-02-25,United Kingdom,Social
+185,2026-03-06,United Kingdom,Affiliate
+186,2026-01-17,Germany,Organic
+187,2026-03-16,Sweden,Paid Search
+188,2026-03-12,Sweden,Social
+189,2026-03-05,Sweden,Affiliate
+190,2026-02-23,Germany,Paid Search
+191,2026-02-20,Sweden,Organic
+192,2026-02-21,Sweden,Affiliate
+193,2026-02-20,United Kingdom,Affiliate
+194,2026-01-10,United Kingdom,Paid Search
+195,2026-01-03,Malta,Organic
+196,2026-01-10,Sweden,Organic
+197,2026-02-19,United Kingdom,Affiliate
+198,2026-01-14,United Kingdom,Affiliate
+199,2026-02-08,Malta,Paid Search
+200,2026-03-13,Germany,Organic
+201,2026-02-05,United Kingdom,Social
+202,2026-02-15,Germany,Paid Search
+203,2026-02-24,Malta,Organic
+204,2026-01-01,Sweden,Social
+205,2026-01-05,Germany,Organic
+206,2026-02-04,Germany,Organic
+207,2026-02-24,United Kingdom,Affiliate
+208,2026-01-28,Sweden,Affiliate
+209,2026-01-26,Germany,Organic
+210,2026-03-01,Sweden,Paid Search
+211,2026-02-19,Sweden,Organic
+212,2026-03-05,United Kingdom,Organic
+213,2026-01-18,Germany,Affiliate
+214,2026-01-30,Germany,Affiliate
+215,2026-02-12,Sweden,Affiliate
+216,2026-01-13,Malta,Organic
+217,2026-02-19,Sweden,Paid Search
+218,2026-01-25,Sweden,Organic
+219,2026-01-10,United Kingdom,Social
+220,2026-02-11,Sweden,Affiliate
+221,2026-03-02,Sweden,Organic
+222,2026-02-13,Malta,Affiliate
+223,2026-02-24,Sweden,Paid Search
+224,2026-01-03,United Kingdom,Affiliate
+225,2026-02-13,Malta,Affiliate
+226,2026-02-03,Sweden,Social
+227,2026-02-03,Sweden,Organic
+228,2026-02-03,United Kingdom,Paid Search
+229,2026-01-21,Germany,Organic
+230,2026-01-08,Germany,Paid Search
+231,2026-03-11,Germany,Affiliate
+232,2026-01-21,Germany,Paid Search
+233,2026-03-03,United Kingdom,Affiliate
+234,2026-02-14,Germany,Paid Search
+235,2026-02-09,United Kingdom,Organic
+236,2026-01-09,United Kingdom,Social
+237,2026-01-17,United Kingdom,Affiliate
+238,2026-03-04,United Kingdom,Organic
+239,2026-03-09,Sweden,Organic
+240,2026-02-01,Sweden,Organic
+241,2026-02-28,United Kingdom,Organic
+242,2026-01-25,United Kingdom,Paid Search
+243,2026-03-15,United Kingdom,Affiliate
+244,2026-03-13,Germany,Paid Search
+245,2026-02-23,United Kingdom,Organic
+246,2026-03-07,United Kingdom,Social
+247,2026-01-22,United Kingdom,Organic
+248,2026-01-08,Germany,Social
+249,2026-02-27,United Kingdom,Organic
+250,2026-01-21,Germany,Paid Search
+251,2026-03-12,United Kingdom,Affiliate
+252,2026-01-30,United Kingdom,Affiliate
+253,2026-01-21,United Kingdom,Paid Search
+254,2026-03-12,United Kingdom,Affiliate
+255,2026-01-22,Malta,Paid Search
+256,2026-01-24,United Kingdom,Paid Search
+257,2026-01-07,Germany,Paid Search
+258,2026-03-14,Sweden,Affiliate
+259,2026-01-04,Germany,Paid Search
+260,2026-01-30,United Kingdom,Social
+261,2026-03-04,Malta,Paid Search
+262,2026-01-09,Germany,Organic
+263,2026-01-28,United Kingdom,Social
+264,2026-03-15,Malta,Affiliate
+265,2026-01-05,United Kingdom,Organic
+266,2026-01-12,Sweden,Paid Search
+267,2026-02-08,Sweden,Paid Search
+268,2026-02-27,Sweden,Organic
+269,2026-03-13,Sweden,Affiliate
+270,2026-01-25,Malta,Paid Search
+271,2026-02-06,United Kingdom,Paid Search
+272,2026-01-28,United Kingdom,Paid Search
+273,2026-03-04,Sweden,Organic
+274,2026-02-24,Malta,Affiliate
+275,2026-01-22,Sweden,Organic
+276,2026-02-21,Sweden,Organic
+277,2026-01-22,Germany,Paid Search
+278,2026-02-15,Sweden,Organic
+279,2026-02-03,Germany,Affiliate
+280,2026-02-12,Germany,Paid Search
+281,2026-01-12,United Kingdom,Paid Search
+282,2026-01-03,Germany,Paid Search
+283,2026-01-09,United Kingdom,Affiliate
+284,2026-01-15,Germany,Organic
+285,2026-01-10,United Kingdom,Social
+286,2026-01-15,Sweden,Organic
+287,2026-02-01,Sweden,Social
+288,2026-02-24,United Kingdom,Social
+289,2026-02-21,Sweden,Paid Search
+290,2026-01-17,Malta,Organic
+291,2026-01-29,United Kingdom,Organic
+292,2026-01-05,United Kingdom,Social
+293,2026-02-22,United Kingdom,Affiliate
+294,2026-03-07,Malta,Organic
+295,2026-01-18,Malta,Social
+296,2026-01-17,United Kingdom,Social
+297,2026-02-05,Germany,Affiliate
+298,2026-02-28,Sweden,Social
+299,2026-03-03,United Kingdom,Affiliate
+300,2026-02-11,Sweden,Paid Search
+301,2026-01-30,United Kingdom,Paid Search
+302,2026-01-05,Malta,Affiliate
+303,2026-02-14,Malta,Affiliate
+304,2026-02-22,Malta,Affiliate
+305,2026-01-30,United Kingdom,Paid Search
+306,2026-01-12,United Kingdom,Social
+307,2026-03-03,Germany,Paid Search
+308,2026-01-17,Germany,Affiliate
+309,2026-01-07,Germany,Affiliate
+310,2026-02-23,Malta,Paid Search
+311,2026-02-19,Malta,Organic
+312,2026-02-22,Sweden,Paid Search
+313,2026-01-05,Germany,Affiliate
+314,2026-01-02,Sweden,Social
+315,2026-03-15,United Kingdom,Paid Search
+316,2026-02-06,Sweden,Paid Search
+317,2026-01-13,United Kingdom,Paid Search
+318,2026-02-09,United Kingdom,Paid Search
+319,2026-03-05,Sweden,Organic
+320,2026-01-16,Germany,Organic
+321,2026-02-04,Sweden,Affiliate
+322,2026-01-30,United Kingdom,Organic
+323,2026-01-22,Sweden,Social
+324,2026-02-21,Malta,Paid Search
+325,2026-01-05,Malta,Paid Search
+326,2026-01-07,United Kingdom,Organic
+327,2026-03-03,Sweden,Organic
+328,2026-01-10,Sweden,Paid Search
+329,2026-03-02,Sweden,Paid Search
+330,2026-03-10,Germany,Organic
+331,2026-02-11,Germany,Social
+332,2026-01-08,United Kingdom,Organic
+333,2026-01-06,Sweden,Organic
+334,2026-03-06,United Kingdom,Paid Search
+335,2026-02-21,Sweden,Organic
+336,2026-01-01,Germany,Paid Search
+337,2026-02-10,United Kingdom,Paid Search
+338,2026-02-07,United Kingdom,Affiliate
+339,2026-01-14,United Kingdom,Organic
+340,2026-01-25,Malta,Paid Search
+341,2026-02-01,United Kingdom,Affiliate
+342,2026-02-02,United Kingdom,Organic
+343,2026-02-05,Malta,Affiliate
+344,2026-02-07,United Kingdom,Affiliate
+345,2026-01-09,United Kingdom,Paid Search
+346,2026-02-24,United Kingdom,Organic
+347,2026-03-02,Germany,Paid Search
+348,2026-01-31,United Kingdom,Social
+349,2026-02-04,Germany,Organic
+350,2026-02-04,Sweden,Paid Search
+351,2026-01-08,Sweden,Social
+352,2026-03-06,Sweden,Organic
+353,2026-02-26,Malta,Organic
+354,2026-01-04,Malta,Affiliate
+355,2026-01-15,Sweden,Organic
+356,2026-01-18,Sweden,Organic
+357,2026-01-26,Malta,Affiliate
+358,2026-03-11,United Kingdom,Affiliate
+359,2026-02-12,Germany,Social
+360,2026-02-24,United Kingdom,Social
+361,2026-02-10,Germany,Affiliate
+362,2026-02-19,Sweden,Organic
+363,2026-02-23,Germany,Social
+364,2026-01-29,United Kingdom,Social
+365,2026-03-14,Germany,Social
+366,2026-01-10,United Kingdom,Affiliate
+367,2026-03-03,United Kingdom,Social
+368,2026-01-28,Sweden,Paid Search
+369,2026-02-03,Sweden,Affiliate
+370,2026-03-05,United Kingdom,Organic
+371,2026-03-14,Sweden,Paid Search
+372,2026-03-09,Sweden,Organic
+373,2026-03-06,Sweden,Affiliate
+374,2026-03-11,United Kingdom,Affiliate
+375,2026-01-08,United Kingdom,Social
+376,2026-01-24,United Kingdom,Affiliate
+377,2026-02-07,Sweden,Social
+378,2026-01-25,United Kingdom,Social
+379,2026-01-08,Germany,Organic
+380,2026-02-28,Germany,Organic
+381,2026-02-09,Germany,Organic
+382,2026-02-02,United Kingdom,Organic
+383,2026-01-27,Malta,Paid Search
+384,2026-03-02,United Kingdom,Organic
+385,2026-02-13,United Kingdom,Affiliate
+386,2026-01-31,United Kingdom,Affiliate
+387,2026-01-27,Germany,Affiliate
+388,2026-01-11,Malta,Affiliate
+389,2026-01-01,Germany,Organic
+390,2026-02-25,Germany,Affiliate
+391,2026-03-06,Germany,Paid Search
+392,2026-02-16,United Kingdom,Paid Search
+393,2026-02-07,Sweden,Organic
+394,2026-02-05,Sweden,Affiliate
+395,2026-01-25,Sweden,Organic
+396,2026-02-01,United Kingdom,Paid Search
+397,2026-02-19,United Kingdom,Organic
+398,2026-01-24,United Kingdom,Paid Search
+399,2026-02-15,United Kingdom,Affiliate
+400,2026-03-09,United Kingdom,Paid Search
+401,2026-01-03,United Kingdom,Social
+402,2026-01-22,Germany,Organic
+403,2026-03-07,United Kingdom,Social
+404,2026-02-25,United Kingdom,Social
+405,2026-02-27,Germany,Paid Search
+406,2026-01-03,Sweden,Social
+407,2026-01-19,United Kingdom,Social
+408,2026-01-12,United Kingdom,Organic
+409,2026-01-11,Sweden,Organic
+410,2026-03-09,Sweden,Paid Search
+411,2026-01-15,United Kingdom,Affiliate
+412,2026-01-19,Germany,Organic
+413,2026-02-17,Germany,Affiliate
+414,2026-02-24,United Kingdom,Paid Search
+415,2026-01-18,Germany,Organic
+416,2026-02-24,Germany,Social
+417,2026-01-01,Germany,Social
+418,2026-03-16,Germany,Affiliate
+419,2026-03-02,United Kingdom,Social
+420,2026-01-27,Sweden,Organic
+421,2026-01-22,Germany,Social
+422,2026-01-01,United Kingdom,Social
+423,2026-02-05,United Kingdom,Organic
+424,2026-02-14,Sweden,Social
+425,2026-02-11,Sweden,Social
+426,2026-02-19,Sweden,Organic
+427,2026-03-04,Sweden,Organic
+428,2026-02-03,United Kingdom,Organic
+429,2026-02-15,United Kingdom,Affiliate
+430,2026-01-26,Germany,Paid Search
+431,2026-01-01,United Kingdom,Affiliate
+432,2026-02-23,United Kingdom,Affiliate
+433,2026-03-13,Sweden,Affiliate
+434,2026-02-24,Germany,Paid Search
+435,2026-01-15,United Kingdom,Paid Search
+436,2026-02-02,United Kingdom,Organic
+437,2026-02-20,Sweden,Organic
+438,2026-02-02,United Kingdom,Paid Search
+439,2026-02-25,United Kingdom,Organic
+440,2026-02-25,United Kingdom,Affiliate
+441,2026-01-07,Germany,Paid Search
+442,2026-02-21,Sweden,Social
+443,2026-02-25,Sweden,Affiliate
+444,2026-01-10,Sweden,Paid Search
+445,2026-03-04,Sweden,Social
+446,2026-02-23,Germany,Organic
+447,2026-03-10,United Kingdom,Affiliate
+448,2026-01-20,Germany,Organic
+449,2026-01-08,United Kingdom,Organic
+450,2026-01-24,Sweden,Paid Search
+451,2026-01-01,Germany,Organic
+452,2026-01-26,Germany,Paid Search
+453,2026-01-06,United Kingdom,Affiliate
+454,2026-02-26,United Kingdom,Paid Search
+455,2026-01-26,Germany,Organic
+456,2026-01-07,Sweden,Paid Search
+457,2026-01-02,Sweden,Social
+458,2026-01-26,Sweden,Paid Search
+459,2026-02-22,Sweden,Organic
+460,2026-01-18,United Kingdom,Social
+461,2026-01-03,United Kingdom,Affiliate
+462,2026-01-04,United Kingdom,Organic
+463,2026-03-05,Malta,Affiliate
+464,2026-02-14,United Kingdom,Paid Search
+465,2026-02-23,Sweden,Social
+466,2026-02-04,United Kingdom,Paid Search
+467,2026-02-02,Germany,Social
+468,2026-01-09,Germany,Organic
+469,2026-02-25,Malta,Paid Search
+470,2026-01-18,Germany,Social
+471,2026-01-11,United Kingdom,Social
+472,2026-01-17,Sweden,Affiliate
+473,2026-01-08,Malta,Paid Search
+474,2026-01-29,Malta,Affiliate
+475,2026-02-21,United Kingdom,Paid Search
+476,2026-01-13,United Kingdom,Affiliate
+477,2026-02-17,Sweden,Organic
+478,2026-02-27,United Kingdom,Organic
+479,2026-01-25,United Kingdom,Organic
+480,2026-03-14,Germany,Paid Search
+481,2026-02-11,Malta,Organic
+482,2026-01-13,Sweden,Social
+483,2026-03-12,Germany,Social
+484,2026-03-16,Sweden,Affiliate
+485,2026-02-09,Malta,Paid Search
+486,2026-03-15,Sweden,Social
+487,2026-01-18,United Kingdom,Social
+488,2026-02-13,United Kingdom,Social
+489,2026-03-01,Sweden,Affiliate
+490,2026-01-18,Germany,Paid Search
+491,2026-01-23,Germany,Social
+492,2026-01-28,Sweden,Social
+493,2026-03-13,Malta,Paid Search
+494,2026-01-13,United Kingdom,Affiliate
+495,2026-02-09,United Kingdom,Organic
+496,2026-02-12,United Kingdom,Social
+497,2026-01-19,Sweden,Affiliate
+498,2026-02-11,Germany,Organic
+499,2026-01-17,Germany,Paid Search
+500,2026-02-22,United Kingdom,Paid Search
+501,2026-01-01,Germany,Affiliate
+502,2026-02-28,Malta,Paid Search
+503,2026-03-15,Malta,Social
+504,2026-02-03,Germany,Social
+505,2026-01-28,United Kingdom,Organic
+506,2026-01-27,Sweden,Social
+507,2026-01-15,Sweden,Affiliate
+508,2026-01-18,Germany,Organic
+509,2026-02-17,Sweden,Organic
+510,2026-01-02,Sweden,Organic
+511,2026-01-21,Germany,Organic
+512,2026-02-23,Sweden,Social
+513,2026-03-11,Sweden,Organic
+514,2026-01-22,Sweden,Organic
+515,2026-03-16,Sweden,Social
+516,2026-02-20,Sweden,Affiliate
+517,2026-01-26,Sweden,Affiliate
+518,2026-02-13,Germany,Organic
+519,2026-03-10,United Kingdom,Organic
+520,2026-03-15,United Kingdom,Paid Search
+521,2026-02-07,Sweden,Organic
+522,2026-03-10,United Kingdom,Paid Search
+523,2026-02-11,United Kingdom,Organic
+524,2026-01-26,Sweden,Organic
+525,2026-01-05,United Kingdom,Paid Search
+526,2026-02-27,United Kingdom,Affiliate
+527,2026-01-12,United Kingdom,Social
+528,2026-02-18,United Kingdom,Organic
+529,2026-03-12,Sweden,Organic
+530,2026-02-16,United Kingdom,Paid Search
+531,2026-03-05,Malta,Affiliate
+532,2026-03-02,United Kingdom,Paid Search
+533,2026-02-20,Sweden,Organic
+534,2026-01-31,United Kingdom,Organic
+535,2026-03-10,Sweden,Organic
+536,2026-01-21,United Kingdom,Paid Search
+537,2026-03-05,Germany,Paid Search
+538,2026-01-24,Sweden,Organic
+539,2026-01-12,United Kingdom,Affiliate
+540,2026-03-12,Sweden,Paid Search
+541,2026-01-04,Germany,Social
+542,2026-03-13,United Kingdom,Affiliate
+543,2026-02-18,Germany,Organic
+544,2026-03-05,Malta,Affiliate
+545,2026-01-30,Sweden,Social
+546,2026-02-19,Germany,Affiliate
+547,2026-02-24,Germany,Organic
+548,2026-02-25,United Kingdom,Affiliate
+549,2026-03-14,Sweden,Organic
+550,2026-02-20,United Kingdom,Social
+551,2026-02-05,Sweden,Paid Search
+552,2026-01-25,Malta,Social
+553,2026-02-21,United Kingdom,Affiliate
+554,2026-01-17,United Kingdom,Organic
+555,2026-02-19,Sweden,Paid Search
+556,2026-01-09,Malta,Organic
+557,2026-03-11,United Kingdom,Paid Search
+558,2026-01-29,United Kingdom,Organic
+559,2026-01-22,United Kingdom,Social
+560,2026-02-03,Sweden,Paid Search
+561,2026-02-07,Sweden,Affiliate
+562,2026-02-21,Germany,Paid Search
+563,2026-02-20,United Kingdom,Affiliate
+564,2026-01-03,United Kingdom,Social
+565,2026-02-17,Germany,Organic
+566,2026-02-03,United Kingdom,Paid Search
+567,2026-01-25,United Kingdom,Affiliate
+568,2026-02-26,United Kingdom,Organic
+569,2026-02-03,Germany,Social
+570,2026-01-27,Sweden,Social
+571,2026-02-16,United Kingdom,Social
+572,2026-01-07,Sweden,Affiliate
+573,2026-01-13,United Kingdom,Affiliate
+574,2026-03-01,United Kingdom,Paid Search
+575,2026-01-12,United Kingdom,Affiliate
+576,2026-03-05,United Kingdom,Affiliate
+577,2026-01-26,United Kingdom,Organic
+578,2026-01-26,Germany,Organic
+579,2026-01-27,Germany,Organic
+580,2026-01-22,Sweden,Organic
+581,2026-02-14,Malta,Social
+582,2026-01-30,United Kingdom,Social
+583,2026-02-27,Germany,Affiliate
+584,2026-01-19,Germany,Affiliate
+585,2026-03-16,Malta,Organic
+586,2026-02-04,United Kingdom,Paid Search
+587,2026-01-19,Sweden,Social
+588,2026-02-05,Malta,Affiliate
+589,2026-01-29,Sweden,Affiliate
+590,2026-02-17,Germany,Affiliate
+591,2026-02-23,Malta,Social
+592,2026-01-22,Malta,Organic
+593,2026-01-04,Sweden,Affiliate
+594,2026-01-13,Malta,Paid Search
+595,2026-03-02,Germany,Affiliate
+596,2026-02-12,United Kingdom,Affiliate
+597,2026-02-08,United Kingdom,Affiliate
+598,2026-03-01,Sweden,Affiliate
+599,2026-03-16,Germany,Paid Search
+600,2026-03-05,United Kingdom,Organic
+601,2026-02-09,United Kingdom,Organic
+602,2026-01-23,United Kingdom,Paid Search
+603,2026-02-23,United Kingdom,Affiliate
+604,2026-01-01,Sweden,Organic
+605,2026-01-09,Sweden,Paid Search
+606,2026-01-08,United Kingdom,Organic
+607,2026-01-22,Sweden,Affiliate
+608,2026-02-28,Germany,Affiliate
+609,2026-03-14,United Kingdom,Affiliate
+610,2026-03-12,United Kingdom,Paid Search
+611,2026-02-02,United Kingdom,Affiliate
+612,2026-01-01,Malta,Paid Search
+613,2026-02-05,Germany,Organic
+614,2026-02-21,United Kingdom,Social
+615,2026-01-25,Sweden,Affiliate
+616,2026-02-28,Germany,Organic
+617,2026-03-10,United Kingdom,Organic
+618,2026-01-28,Germany,Affiliate
+619,2026-01-26,United Kingdom,Affiliate
+620,2026-02-17,Sweden,Affiliate
+621,2026-03-07,United Kingdom,Affiliate
+622,2026-03-05,Sweden,Affiliate
+623,2026-01-29,Sweden,Paid Search
+624,2026-03-03,United Kingdom,Social
+625,2026-01-25,United Kingdom,Affiliate
+626,2026-01-19,United Kingdom,Organic
+627,2026-02-08,Sweden,Organic
+628,2026-02-24,Germany,Social
+629,2026-02-25,Malta,Social
+630,2026-02-05,Sweden,Social
+631,2026-01-02,Sweden,Affiliate
+632,2026-03-03,Germany,Organic
+633,2026-01-16,United Kingdom,Organic
+634,2026-01-14,United Kingdom,Affiliate
+635,2026-02-03,United Kingdom,Paid Search
+636,2026-02-25,United Kingdom,Affiliate
+637,2026-03-05,Germany,Organic
+638,2026-03-01,Malta,Affiliate
+639,2026-01-27,Sweden,Affiliate
+640,2026-01-03,United Kingdom,Paid Search
+641,2026-02-15,Sweden,Paid Search
+642,2026-03-06,Germany,Affiliate
+643,2026-03-04,Germany,Social
+644,2026-01-16,Germany,Organic
+645,2026-03-06,Malta,Affiliate
+646,2026-02-08,Germany,Social
+647,2026-03-04,Germany,Organic
+648,2026-02-09,United Kingdom,Paid Search
+649,2026-01-01,Sweden,Organic
+650,2026-01-12,Sweden,Organic
+651,2026-01-29,United Kingdom,Affiliate
+652,2026-02-12,Germany,Organic
+653,2026-01-03,United Kingdom,Affiliate
+654,2026-02-18,Sweden,Paid Search
+655,2026-01-18,Sweden,Organic
+656,2026-01-26,United Kingdom,Organic
+657,2026-02-09,United Kingdom,Social
+658,2026-03-03,United Kingdom,Affiliate
+659,2026-02-28,United Kingdom,Paid Search
+660,2026-01-28,Malta,Social
+661,2026-02-06,United Kingdom,Affiliate
+662,2026-03-02,Sweden,Organic
+663,2026-02-24,United Kingdom,Social
+664,2026-01-14,Sweden,Organic
+665,2026-02-15,Malta,Organic
+666,2026-02-03,Germany,Social
+667,2026-02-19,Malta,Affiliate
+668,2026-02-17,Sweden,Social
+669,2026-03-01,United Kingdom,Affiliate
+670,2026-01-06,Germany,Organic
+671,2026-03-11,Germany,Affiliate
+672,2026-02-23,Sweden,Social
+673,2026-02-03,United Kingdom,Social
+674,2026-01-18,Germany,Paid Search
+675,2026-03-01,United Kingdom,Paid Search
+676,2026-01-01,Sweden,Organic
+677,2026-01-13,United Kingdom,Paid Search
+678,2026-02-04,United Kingdom,Affiliate
+679,2026-01-25,Germany,Paid Search
+680,2026-02-13,Sweden,Affiliate
+681,2026-02-23,Germany,Social
+682,2026-01-17,United Kingdom,Organic
+683,2026-02-19,Sweden,Organic
+684,2026-03-07,United Kingdom,Paid Search
+685,2026-01-30,Malta,Organic
+686,2026-02-11,United Kingdom,Social
+687,2026-02-01,Germany,Paid Search
+688,2026-02-19,Sweden,Organic
+689,2026-02-25,United Kingdom,Social
+690,2026-01-28,Sweden,Paid Search
+691,2026-03-03,United Kingdom,Paid Search
+692,2026-02-09,United Kingdom,Social
+693,2026-02-08,United Kingdom,Paid Search
+694,2026-03-12,Sweden,Organic
+695,2026-01-30,Sweden,Affiliate
+696,2026-01-12,Germany,Organic
+697,2026-03-01,Malta,Organic
+698,2026-03-11,United Kingdom,Social
+699,2026-02-18,United Kingdom,Organic
+700,2026-01-27,Sweden,Social
+701,2026-02-10,Malta,Paid Search
+702,2026-03-13,Sweden,Organic
+703,2026-02-20,Sweden,Social
+704,2026-01-19,United Kingdom,Affiliate
+705,2026-03-04,Sweden,Paid Search
+706,2026-01-21,United Kingdom,Organic
+707,2026-01-05,United Kingdom,Organic
+708,2026-02-28,Germany,Affiliate
+709,2026-01-15,Sweden,Organic
+710,2026-02-22,United Kingdom,Affiliate
+711,2026-02-10,United Kingdom,Social
+712,2026-01-25,Sweden,Organic
+713,2026-02-09,Malta,Paid Search
+714,2026-01-30,United Kingdom,Affiliate
+715,2026-02-14,Sweden,Affiliate
+716,2026-01-23,United Kingdom,Affiliate
+717,2026-02-06,United Kingdom,Paid Search
+718,2026-03-13,Malta,Paid Search
+719,2026-03-05,Sweden,Affiliate
+720,2026-01-22,Germany,Organic
+721,2026-03-09,Sweden,Social
+722,2026-02-04,Germany,Organic
+723,2026-02-19,Malta,Paid Search
+724,2026-01-28,Malta,Affiliate
+725,2026-03-02,United Kingdom,Affiliate
+726,2026-02-09,Sweden,Affiliate
+727,2026-02-10,Sweden,Social
+728,2026-03-04,United Kingdom,Paid Search
+729,2026-01-04,United Kingdom,Organic
+730,2026-01-31,United Kingdom,Paid Search
+731,2026-03-03,United Kingdom,Affiliate
+732,2026-01-18,United Kingdom,Organic
+733,2026-03-12,United Kingdom,Affiliate
+734,2026-01-23,United Kingdom,Organic
+735,2026-01-25,Malta,Affiliate
+736,2026-02-28,Germany,Affiliate
+737,2026-01-18,Sweden,Paid Search
+738,2026-03-14,Malta,Paid Search
+739,2026-01-19,Sweden,Affiliate
+740,2026-01-08,Malta,Affiliate
+741,2026-02-02,Sweden,Organic
+742,2026-01-03,Sweden,Organic
+743,2026-03-04,Germany,Paid Search
+744,2026-01-10,United Kingdom,Affiliate
+745,2026-03-10,Sweden,Organic
+746,2026-03-11,United Kingdom,Organic
+747,2026-01-08,Malta,Organic
+748,2026-02-10,United Kingdom,Affiliate
+749,2026-01-29,Sweden,Paid Search
+750,2026-03-15,Germany,Social
+751,2026-03-16,United Kingdom,Organic
+752,2026-01-01,United Kingdom,Affiliate
+753,2026-01-21,Germany,Social
+754,2026-02-03,United Kingdom,Organic
+755,2026-01-23,United Kingdom,Paid Search
+756,2026-01-08,United Kingdom,Social
+757,2026-02-21,United Kingdom,Social
+758,2026-01-16,United Kingdom,Affiliate
+759,2026-03-04,Sweden,Organic
+760,2026-03-05,United Kingdom,Social
+761,2026-01-12,United Kingdom,Social
+762,2026-01-08,United Kingdom,Affiliate
+763,2026-01-08,United Kingdom,Affiliate
+764,2026-02-26,United Kingdom,Organic
+765,2026-01-25,Germany,Paid Search
+766,2026-03-09,Malta,Paid Search
+767,2026-02-04,Germany,Paid Search
+768,2026-01-21,United Kingdom,Affiliate
+769,2026-02-24,Sweden,Paid Search
+770,2026-01-13,Malta,Affiliate
+771,2026-01-02,Sweden,Organic
+772,2026-02-27,Sweden,Affiliate
+773,2026-02-27,United Kingdom,Paid Search
+774,2026-02-06,United Kingdom,Paid Search
+775,2026-01-09,Sweden,Paid Search
+776,2026-02-15,United Kingdom,Affiliate
+777,2026-01-09,United Kingdom,Affiliate
+778,2026-02-18,United Kingdom,Affiliate
+779,2026-03-01,United Kingdom,Social
+780,2026-01-27,United Kingdom,Affiliate
+781,2026-02-04,Sweden,Social
+782,2026-02-09,United Kingdom,Paid Search
+783,2026-01-11,United Kingdom,Affiliate
+784,2026-01-20,United Kingdom,Organic
+785,2026-01-17,Malta,Organic
+786,2026-01-18,United Kingdom,Affiliate
+787,2026-03-16,Germany,Affiliate
+788,2026-03-06,Germany,Paid Search
+789,2026-02-20,Germany,Social
+790,2026-03-11,United Kingdom,Affiliate
+791,2026-01-08,Malta,Organic
+792,2026-03-13,Sweden,Organic
+793,2026-01-29,Malta,Paid Search
+794,2026-01-22,Malta,Paid Search
+795,2026-01-14,Malta,Affiliate
+796,2026-02-20,United Kingdom,Affiliate
+797,2026-03-09,Malta,Organic
+798,2026-02-03,Sweden,Organic
+799,2026-03-06,United Kingdom,Affiliate
+800,2026-02-19,United Kingdom,Affiliate
+801,2026-01-14,Germany,Affiliate
+802,2026-02-20,Sweden,Affiliate
+803,2026-03-07,United Kingdom,Organic
+804,2026-01-01,United Kingdom,Paid Search
+805,2026-03-03,Malta,Affiliate
+806,2026-01-07,Germany,Affiliate
+807,2026-02-04,United Kingdom,Organic
+808,2026-02-04,United Kingdom,Paid Search
+809,2026-01-14,United Kingdom,Affiliate
+810,2026-01-11,Sweden,Organic
+811,2026-01-21,Malta,Affiliate
+812,2026-01-01,Sweden,Organic
+813,2026-02-12,United Kingdom,Affiliate
+814,2026-02-10,United Kingdom,Organic
+815,2026-03-16,Sweden,Paid Search
+816,2026-01-04,Germany,Organic
+817,2026-01-29,Malta,Paid Search
+818,2026-01-30,Germany,Affiliate
+819,2026-01-14,Sweden,Affiliate
+820,2026-03-08,United Kingdom,Social
+821,2026-01-25,United Kingdom,Affiliate
+822,2026-01-16,Malta,Organic
+823,2026-03-03,Germany,Organic
+824,2026-02-20,Germany,Paid Search
+825,2026-02-22,United Kingdom,Organic
+826,2026-01-15,Sweden,Affiliate
+827,2026-01-12,Germany,Paid Search
+828,2026-02-16,Germany,Paid Search
+829,2026-02-18,United Kingdom,Organic
+830,2026-02-01,Germany,Social
+831,2026-03-06,Germany,Paid Search
+832,2026-02-23,Sweden,Paid Search
+833,2026-02-15,Germany,Paid Search
+834,2026-01-25,Sweden,Paid Search
+835,2026-01-13,Germany,Social
+836,2026-02-12,Germany,Paid Search
+837,2026-01-03,United Kingdom,Organic
+838,2026-02-01,Sweden,Organic
+839,2026-02-03,United Kingdom,Organic
+840,2026-02-20,Germany,Affiliate
+841,2026-01-16,Malta,Paid Search
+842,2026-02-22,United Kingdom,Organic
+843,2026-03-03,Sweden,Social
+844,2026-02-19,Germany,Organic
+845,2026-02-16,Sweden,Affiliate
+846,2026-03-14,Sweden,Affiliate
+847,2026-02-19,Sweden,Organic
+848,2026-03-06,Germany,Social
+849,2026-03-12,Germany,Affiliate
+850,2026-01-12,Sweden,Paid Search
+851,2026-01-20,Sweden,Paid Search
+852,2026-03-07,Germany,Paid Search
+853,2026-03-16,Germany,Organic
+854,2026-02-10,Sweden,Organic
+855,2026-01-02,Malta,Paid Search
+856,2026-01-08,Sweden,Affiliate
+857,2026-01-06,United Kingdom,Affiliate
+858,2026-02-25,Germany,Affiliate
+859,2026-01-28,Sweden,Affiliate
+860,2026-03-07,Sweden,Paid Search
+861,2026-02-25,Sweden,Paid Search
+862,2026-03-15,Sweden,Affiliate
+863,2026-03-01,Sweden,Affiliate
+864,2026-03-01,Germany,Social
+865,2026-02-07,United Kingdom,Paid Search
+866,2026-01-12,Sweden,Affiliate
+867,2026-01-10,Sweden,Organic
+868,2026-01-29,United Kingdom,Affiliate
+869,2026-01-04,United Kingdom,Paid Search
+870,2026-02-18,Germany,Organic
+871,2026-01-25,United Kingdom,Paid Search
+872,2026-02-22,United Kingdom,Paid Search
+873,2026-02-27,Malta,Social
+874,2026-01-14,United Kingdom,Organic
+875,2026-02-14,Sweden,Organic
+876,2026-02-11,Germany,Affiliate
+877,2026-01-11,United Kingdom,Affiliate
+878,2026-01-20,Germany,Paid Search
+879,2026-02-18,Sweden,Affiliate
+880,2026-03-06,United Kingdom,Paid Search
+881,2026-03-01,Malta,Social
+882,2026-03-15,United Kingdom,Social
+883,2026-01-15,Sweden,Organic
+884,2026-02-06,United Kingdom,Social
+885,2026-02-09,United Kingdom,Affiliate
+886,2026-02-18,United Kingdom,Organic
+887,2026-01-15,United Kingdom,Paid Search
+888,2026-03-10,Sweden,Affiliate
+889,2026-01-11,Germany,Affiliate
+890,2026-01-07,United Kingdom,Affiliate
+891,2026-02-10,Germany,Organic
+892,2026-01-13,Sweden,Affiliate
+893,2026-03-11,Malta,Organic
+894,2026-03-09,United Kingdom,Social
+895,2026-03-14,Sweden,Affiliate
+896,2026-01-11,Malta,Affiliate
+897,2026-02-15,Germany,Paid Search
+898,2026-02-10,Germany,Paid Search
+899,2026-02-28,United Kingdom,Organic
+900,2026-01-24,Germany,Paid Search
+901,2026-01-26,United Kingdom,Affiliate
+902,2026-02-12,Germany,Social
+903,2026-01-01,United Kingdom,Organic
+904,2026-01-15,United Kingdom,Affiliate
+905,2026-01-11,United Kingdom,Affiliate
+906,2026-01-26,United Kingdom,Social
+907,2026-01-11,Sweden,Affiliate
+908,2026-01-05,United Kingdom,Paid Search
+909,2026-03-01,Malta,Affiliate
+910,2026-02-03,United Kingdom,Social
+911,2026-01-01,United Kingdom,Organic
+912,2026-01-08,United Kingdom,Affiliate
+913,2026-02-24,United Kingdom,Social
+914,2026-01-10,United Kingdom,Organic
+915,2026-02-07,Germany,Affiliate
+916,2026-03-04,United Kingdom,Affiliate
+917,2026-01-22,Sweden,Organic
+918,2026-01-24,United Kingdom,Affiliate
+919,2026-01-26,Sweden,Affiliate
+920,2026-03-14,Sweden,Social
+921,2026-03-02,United Kingdom,Organic
+922,2026-01-10,Malta,Organic
+923,2026-03-05,United Kingdom,Social
+924,2026-01-11,Sweden,Paid Search
+925,2026-01-27,United Kingdom,Social
+926,2026-01-12,Germany,Affiliate
+927,2026-01-27,Malta,Affiliate
+928,2026-01-02,United Kingdom,Paid Search
+929,2026-03-08,Malta,Paid Search
+930,2026-02-13,Malta,Paid Search
+931,2026-02-05,Malta,Affiliate
+932,2026-02-11,Germany,Organic
+933,2026-01-26,Malta,Organic
+934,2026-01-27,United Kingdom,Organic
+935,2026-02-26,United Kingdom,Organic
+936,2026-01-24,United Kingdom,Organic
+937,2026-03-02,Sweden,Affiliate
+938,2026-01-15,Sweden,Affiliate
+939,2026-02-26,Sweden,Organic
+940,2026-02-18,Sweden,Organic
+941,2026-02-03,United Kingdom,Organic
+942,2026-01-06,Sweden,Social
+943,2026-02-15,Malta,Paid Search
+944,2026-01-31,Sweden,Social
+945,2026-01-18,United Kingdom,Affiliate
+946,2026-02-25,United Kingdom,Organic
+947,2026-01-06,Sweden,Social
+948,2026-03-15,Malta,Affiliate
+949,2026-01-15,United Kingdom,Paid Search
+950,2026-02-03,Sweden,Organic
+951,2026-02-17,United Kingdom,Affiliate
+952,2026-03-07,Malta,Affiliate
+953,2026-01-24,Malta,Social
+954,2026-03-02,United Kingdom,Organic
+955,2026-02-11,Sweden,Affiliate
+956,2026-03-03,Germany,Affiliate
+957,2026-02-23,Malta,Organic
+958,2026-03-10,Germany,Social
+959,2026-02-25,Malta,Organic
+960,2026-02-20,United Kingdom,Affiliate
+961,2026-03-16,United Kingdom,Social
+962,2026-03-14,Malta,Social
+963,2026-01-20,Malta,Paid Search
+964,2026-01-14,Germany,Organic
+965,2026-03-11,United Kingdom,Organic
+966,2026-02-22,United Kingdom,Organic
+967,2026-02-07,United Kingdom,Social
+968,2026-01-25,Germany,Organic
+969,2026-01-06,Sweden,Social
+970,2026-02-14,Sweden,Social
+971,2026-02-13,Germany,Affiliate
+972,2026-02-26,United Kingdom,Affiliate
+973,2026-01-13,Malta,Organic
+974,2026-01-19,Sweden,Social
+975,2026-02-14,Germany,Organic
+976,2026-01-23,Germany,Social
+977,2026-01-16,Malta,Paid Search
+978,2026-01-29,Sweden,Affiliate
+979,2026-01-30,Sweden,Affiliate
+980,2026-03-05,Malta,Affiliate
+981,2026-03-06,United Kingdom,Paid Search
+982,2026-01-22,United Kingdom,Paid Search
+983,2026-01-24,Germany,Paid Search
+984,2026-01-24,Sweden,Affiliate
+985,2026-01-14,United Kingdom,Organic
+986,2026-01-09,Sweden,Organic
+987,2026-01-20,United Kingdom,Paid Search
+988,2026-02-05,Germany,Affiliate
+989,2026-01-15,Germany,Paid Search
+990,2026-01-11,Sweden,Affiliate
+991,2026-03-15,United Kingdom,Organic
+992,2026-01-04,United Kingdom,Organic
+993,2026-02-26,Sweden,Organic
+994,2026-03-09,Sweden,Organic
+995,2026-01-15,United Kingdom,Affiliate
+996,2026-02-14,United Kingdom,Organic
+997,2026-01-15,Sweden,Paid Search
+998,2026-03-14,Malta,Social
+999,2026-01-08,United Kingdom,Paid Search
+1000,2026-01-29,Sweden,Affiliate
+1001,2026-02-20,Sweden,Organic
+1002,2026-01-23,Germany,Paid Search
+1003,2026-03-01,United Kingdom,Social
+1004,2026-02-07,Sweden,Paid Search
+1005,2026-02-11,Malta,Paid Search
+1006,2026-02-24,Germany,Organic
+1007,2026-01-25,United Kingdom,Affiliate
+1008,2026-01-15,Malta,Paid Search
+1009,2026-02-10,Sweden,Organic
+1010,2026-03-11,United Kingdom,Paid Search
+1011,2026-01-29,Sweden,Paid Search
+1012,2026-01-23,Germany,Paid Search
+1013,2026-01-12,Sweden,Organic
+1014,2026-01-02,Sweden,Organic
+1015,2026-03-04,Sweden,Paid Search
+1016,2026-03-11,Sweden,Affiliate
+1017,2026-01-10,Malta,Affiliate
+1018,2026-02-25,United Kingdom,Paid Search
+1019,2026-03-14,Sweden,Affiliate
+1020,2026-01-06,Malta,Paid Search
+1021,2026-02-01,United Kingdom,Affiliate
+1022,2026-02-09,Sweden,Paid Search
+1023,2026-01-11,Germany,Affiliate
+1024,2026-03-03,Germany,Paid Search
+1025,2026-03-05,Germany,Social
+1026,2026-02-20,United Kingdom,Paid Search
+1027,2026-01-07,Sweden,Affiliate
+1028,2026-02-12,Germany,Paid Search
+1029,2026-02-03,Sweden,Social
+1030,2026-03-14,Germany,Social
+1031,2026-02-16,Germany,Organic
+1032,2026-03-14,United Kingdom,Social
+1033,2026-02-15,Germany,Organic
+1034,2026-02-13,United Kingdom,Affiliate
+1035,2026-03-06,Germany,Paid Search
+1036,2026-03-02,Sweden,Organic
+1037,2026-02-04,Sweden,Affiliate
+1038,2026-02-09,United Kingdom,Affiliate
+1039,2026-02-10,United Kingdom,Organic
+1040,2026-03-09,United Kingdom,Paid Search
+1041,2026-02-03,United Kingdom,Affiliate
+1042,2026-02-18,United Kingdom,Affiliate
+1043,2026-02-27,Germany,Affiliate
+1044,2026-03-02,Sweden,Paid Search
+1045,2026-03-15,United Kingdom,Social
+1046,2026-02-12,United Kingdom,Affiliate
+1047,2026-03-10,United Kingdom,Social
+1048,2026-01-28,Sweden,Paid Search
+1049,2026-01-17,Malta,Paid Search
+1050,2026-02-27,United Kingdom,Social
+1051,2026-01-02,United Kingdom,Social
+1052,2026-02-25,Germany,Affiliate
+1053,2026-01-26,Germany,Organic
+1054,2026-02-01,Sweden,Paid Search
+1055,2026-02-25,Germany,Affiliate
+1056,2026-03-03,Malta,Paid Search
+1057,2026-02-15,Sweden,Social
+1058,2026-02-20,Malta,Affiliate
+1059,2026-02-16,United Kingdom,Affiliate
+1060,2026-03-06,Germany,Social
+1061,2026-02-17,Germany,Organic
+1062,2026-02-02,Germany,Paid Search
+1063,2026-02-13,United Kingdom,Affiliate
+1064,2026-02-07,United Kingdom,Organic
+1065,2026-02-19,Malta,Affiliate
+1066,2026-01-12,Malta,Paid Search
+1067,2026-01-31,Germany,Paid Search
+1068,2026-01-17,United Kingdom,Paid Search
+1069,2026-03-06,Germany,Affiliate
+1070,2026-02-02,United Kingdom,Social
+1071,2026-03-14,Sweden,Organic
+1072,2026-03-11,Germany,Organic
+1073,2026-03-04,Sweden,Organic
+1074,2026-02-04,Malta,Paid Search
+1075,2026-02-08,United Kingdom,Social
+1076,2026-03-03,Malta,Affiliate
+1077,2026-01-11,United Kingdom,Paid Search
+1078,2026-03-12,United Kingdom,Paid Search
+1079,2026-03-12,United Kingdom,Organic
+1080,2026-02-17,United Kingdom,Affiliate
+1081,2026-02-06,Sweden,Organic
+1082,2026-01-19,United Kingdom,Paid Search
+1083,2026-01-02,United Kingdom,Paid Search
+1084,2026-02-13,Malta,Affiliate
+1085,2026-01-05,United Kingdom,Paid Search
+1086,2026-03-12,Sweden,Paid Search
+1087,2026-01-12,Sweden,Paid Search
+1088,2026-02-26,Sweden,Affiliate
+1089,2026-01-01,Malta,Paid Search
+1090,2026-01-04,United Kingdom,Paid Search
+1091,2026-02-03,Sweden,Paid Search
+1092,2026-02-08,Malta,Paid Search
+1093,2026-03-11,United Kingdom,Affiliate
+1094,2026-01-12,Malta,Organic
+1095,2026-01-19,United Kingdom,Social
+1096,2026-03-09,Sweden,Organic
+1097,2026-02-20,United Kingdom,Organic
+1098,2026-01-21,Sweden,Organic
+1099,2026-02-25,United Kingdom,Affiliate
+1100,2026-01-10,United Kingdom,Organic
+1101,2026-01-06,Sweden,Organic
+1102,2026-02-07,Sweden,Organic
+1103,2026-03-16,Sweden,Paid Search
+1104,2026-01-07,Germany,Social
+1105,2026-01-19,United Kingdom,Paid Search
+1106,2026-03-10,Malta,Affiliate
+1107,2026-01-18,Sweden,Affiliate
+1108,2026-03-02,Germany,Affiliate
+1109,2026-01-23,United Kingdom,Affiliate
+1110,2026-02-01,Germany,Organic
+1111,2026-02-05,Sweden,Organic
+1112,2026-03-08,Sweden,Paid Search
+1113,2026-01-10,United Kingdom,Affiliate
+1114,2026-02-02,United Kingdom,Organic
+1115,2026-02-17,United Kingdom,Affiliate
+1116,2026-01-29,Germany,Organic
+1117,2026-01-31,Sweden,Paid Search
+1118,2026-02-16,Sweden,Affiliate
+1119,2026-03-09,United Kingdom,Affiliate
+1120,2026-01-04,Sweden,Organic
+1121,2026-02-09,United Kingdom,Social
+1122,2026-03-09,Sweden,Social
+1123,2026-03-13,Malta,Organic
+1124,2026-01-20,Sweden,Affiliate
+1125,2026-01-08,Malta,Paid Search
+1126,2026-01-02,Sweden,Affiliate
+1127,2026-01-29,Germany,Organic
+1128,2026-01-29,Germany,Paid Search
+1129,2026-02-25,United Kingdom,Affiliate
+1130,2026-01-28,Germany,Affiliate
+1131,2026-01-22,Sweden,Organic
+1132,2026-01-12,Malta,Paid Search
+1133,2026-03-10,Malta,Organic
+1134,2026-01-15,Germany,Social
+1135,2026-03-10,United Kingdom,Affiliate
+1136,2026-01-05,United Kingdom,Organic
+1137,2026-01-04,United Kingdom,Affiliate
+1138,2026-02-10,United Kingdom,Paid Search
+1139,2026-01-06,Sweden,Paid Search
+1140,2026-01-14,Malta,Paid Search
+1141,2026-02-02,Malta,Paid Search
+1142,2026-02-11,Sweden,Affiliate
+1143,2026-02-20,Germany,Organic
+1144,2026-01-15,Sweden,Paid Search
+1145,2026-01-28,Malta,Paid Search
+1146,2026-01-24,Sweden,Organic
+1147,2026-03-05,Sweden,Affiliate
+1148,2026-03-02,United Kingdom,Affiliate
+1149,2026-03-09,United Kingdom,Affiliate
+1150,2026-01-09,United Kingdom,Paid Search
+1151,2026-01-06,United Kingdom,Affiliate
+1152,2026-02-17,Sweden,Organic
+1153,2026-03-02,Malta,Affiliate
+1154,2026-02-23,Sweden,Affiliate
+1155,2026-01-06,Malta,Social
+1156,2026-01-26,United Kingdom,Organic
+1157,2026-03-01,Sweden,Affiliate
+1158,2026-01-29,Sweden,Paid Search
+1159,2026-02-20,United Kingdom,Affiliate
+1160,2026-02-02,United Kingdom,Paid Search
+1161,2026-03-01,Germany,Affiliate
+1162,2026-01-31,Sweden,Social
+1163,2026-01-13,Germany,Organic
+1164,2026-03-08,United Kingdom,Paid Search
+1165,2026-02-17,United Kingdom,Paid Search
+1166,2026-03-08,United Kingdom,Organic
+1167,2026-01-29,Germany,Paid Search
+1168,2026-03-06,Sweden,Affiliate
+1169,2026-01-15,United Kingdom,Social
+1170,2026-03-03,United Kingdom,Paid Search
+1171,2026-01-11,Sweden,Organic
+1172,2026-03-10,United Kingdom,Organic
+1173,2026-03-02,Sweden,Organic
+1174,2026-02-05,Sweden,Paid Search
+1175,2026-03-13,Germany,Organic
+1176,2026-01-30,United Kingdom,Affiliate
+1177,2026-01-20,Germany,Affiliate
+1178,2026-01-15,Germany,Organic
+1179,2026-01-23,Germany,Organic
+1180,2026-01-30,United Kingdom,Social
+1181,2026-01-06,Sweden,Social
+1182,2026-03-11,Malta,Paid Search
+1183,2026-01-12,Sweden,Paid Search
+1184,2026-01-17,Malta,Paid Search
+1185,2026-01-22,Germany,Affiliate
+1186,2026-02-24,Germany,Organic
+1187,2026-02-01,United Kingdom,Affiliate
+1188,2026-02-15,United Kingdom,Social
+1189,2026-03-15,Sweden,Organic
+1190,2026-02-12,Malta,Affiliate
+1191,2026-01-16,Sweden,Affiliate
+1192,2026-01-31,Germany,Affiliate
+1193,2026-03-06,Sweden,Affiliate
+1194,2026-03-10,United Kingdom,Organic
+1195,2026-02-23,United Kingdom,Social
+1196,2026-01-18,Malta,Affiliate
+1197,2026-02-26,Sweden,Organic
+1198,2026-02-12,Germany,Paid Search
+1199,2026-03-06,Malta,Paid Search
+1200,2026-02-02,Germany,Social
+1201,2026-01-09,Sweden,Paid Search
+1202,2026-02-23,United Kingdom,Paid Search
+1203,2026-01-29,United Kingdom,Organic
+1204,2026-02-24,Malta,Affiliate
+1205,2026-01-19,United Kingdom,Social
+1206,2026-01-16,Sweden,Affiliate
+1207,2026-02-03,Sweden,Organic
+1208,2026-01-04,United Kingdom,Paid Search
+1209,2026-02-01,Sweden,Paid Search
+1210,2026-02-22,Germany,Organic
+1211,2026-01-14,United Kingdom,Affiliate
+1212,2026-02-25,United Kingdom,Affiliate
+1213,2026-02-25,United Kingdom,Affiliate
+1214,2026-01-23,United Kingdom,Affiliate
+1215,2026-01-06,United Kingdom,Paid Search
+1216,2026-02-11,Germany,Paid Search
+1217,2026-02-21,Sweden,Affiliate
+1218,2026-03-16,United Kingdom,Organic
+1219,2026-02-18,Sweden,Paid Search
+1220,2026-03-09,Sweden,Paid Search
+1221,2026-02-06,Germany,Paid Search
+1222,2026-03-01,United Kingdom,Organic
+1223,2026-02-05,Malta,Paid Search
+1224,2026-02-10,Germany,Organic
+1225,2026-02-21,United Kingdom,Social
+1226,2026-01-03,Sweden,Organic
+1227,2026-01-23,United Kingdom,Affiliate
+1228,2026-02-10,Sweden,Affiliate
+1229,2026-03-13,Germany,Affiliate
+1230,2026-02-18,United Kingdom,Paid Search
+1231,2026-03-10,United Kingdom,Affiliate
+1232,2026-01-16,United Kingdom,Organic
+1233,2026-02-04,United Kingdom,Social
+1234,2026-02-27,Germany,Affiliate
+1235,2026-03-05,Sweden,Paid Search
+1236,2026-01-04,Sweden,Organic
+1237,2026-01-06,Sweden,Social
+1238,2026-01-08,Germany,Paid Search
+1239,2026-01-22,Germany,Organic
+1240,2026-01-22,Malta,Affiliate
+1241,2026-01-27,Germany,Paid Search
+1242,2026-03-12,Malta,Affiliate
+1243,2026-02-08,United Kingdom,Paid Search
+1244,2026-02-24,United Kingdom,Affiliate
+1245,2026-03-12,United Kingdom,Organic
+1246,2026-01-08,United Kingdom,Social
+1247,2026-01-24,United Kingdom,Affiliate
+1248,2026-01-07,United Kingdom,Organic
+1249,2026-01-24,Germany,Affiliate
+1250,2026-02-12,Sweden,Affiliate
+1251,2026-02-28,Sweden,Social
+1252,2026-01-19,Sweden,Organic
+1253,2026-03-11,Malta,Affiliate
+1254,2026-01-12,Malta,Paid Search
+1255,2026-02-08,United Kingdom,Paid Search
+1256,2026-01-05,United Kingdom,Affiliate
+1257,2026-02-26,Germany,Paid Search
+1258,2026-02-24,Germany,Organic
+1259,2026-03-01,Malta,Social
+1260,2026-01-13,United Kingdom,Social
+1261,2026-03-16,United Kingdom,Social
+1262,2026-02-19,Germany,Paid Search
+1263,2026-03-05,Germany,Affiliate
+1264,2026-02-10,Sweden,Organic
+1265,2026-01-16,United Kingdom,Affiliate
+1266,2026-02-20,United Kingdom,Social
+1267,2026-03-15,Sweden,Affiliate
+1268,2026-01-19,United Kingdom,Organic
+1269,2026-02-04,Sweden,Affiliate
+1270,2026-03-02,Sweden,Social
+1271,2026-02-27,United Kingdom,Social
+1272,2026-02-14,Sweden,Social
+1273,2026-02-08,Sweden,Affiliate
+1274,2026-02-21,Sweden,Affiliate
+1275,2026-03-14,Sweden,Paid Search
+1276,2026-03-08,Malta,Organic
+1277,2026-02-11,United Kingdom,Organic
+1278,2026-02-22,United Kingdom,Organic
+1279,2026-01-03,Sweden,Paid Search
+1280,2026-02-09,United Kingdom,Social
+1281,2026-02-12,Sweden,Paid Search
+1282,2026-03-15,United Kingdom,Organic
+1283,2026-01-08,United Kingdom,Paid Search
+1284,2026-03-13,United Kingdom,Social
+1285,2026-01-13,United Kingdom,Organic
+1286,2026-01-06,Malta,Affiliate
+1287,2026-01-28,United Kingdom,Affiliate
+1288,2026-02-24,Germany,Affiliate
+1289,2026-03-12,Sweden,Organic
+1290,2026-02-15,Sweden,Organic
+1291,2026-01-26,Sweden,Affiliate
+1292,2026-01-13,Malta,Paid Search
+1293,2026-03-04,United Kingdom,Paid Search
+1294,2026-03-06,United Kingdom,Social
+1295,2026-03-09,United Kingdom,Paid Search
+1296,2026-01-28,Malta,Organic
+1297,2026-01-15,Malta,Social
+1298,2026-01-31,Malta,Paid Search
+1299,2026-02-14,United Kingdom,Organic
+1300,2026-01-03,United Kingdom,Affiliate
+1301,2026-03-13,Germany,Organic
+1302,2026-03-05,United Kingdom,Social
+1303,2026-01-20,Sweden,Organic
+1304,2026-01-30,Malta,Social
+1305,2026-03-05,Germany,Organic
+1306,2026-03-15,Germany,Organic
+1307,2026-02-26,Malta,Organic
+1308,2026-02-03,Sweden,Organic
+1309,2026-02-28,Sweden,Paid Search
+1310,2026-03-01,United Kingdom,Affiliate
+1311,2026-02-03,Malta,Social
+1312,2026-01-19,Sweden,Affiliate
+1313,2026-02-15,United Kingdom,Affiliate
+1314,2026-02-19,Malta,Paid Search
+1315,2026-01-20,Sweden,Organic
+1316,2026-02-09,United Kingdom,Organic
+1317,2026-02-21,United Kingdom,Organic
+1318,2026-01-20,Sweden,Paid Search
+1319,2026-02-19,Sweden,Organic
+1320,2026-02-25,Sweden,Organic
+1321,2026-01-31,Sweden,Affiliate
+1322,2026-01-11,Sweden,Paid Search
+1323,2026-01-12,United Kingdom,Organic
+1324,2026-01-12,Sweden,Paid Search
+1325,2026-02-27,Malta,Paid Search
+1326,2026-01-18,United Kingdom,Organic
+1327,2026-01-08,Malta,Affiliate
+1328,2026-02-22,Malta,Paid Search
+1329,2026-01-16,United Kingdom,Paid Search
+1330,2026-03-01,Sweden,Organic
+1331,2026-02-08,United Kingdom,Organic
+1332,2026-02-23,United Kingdom,Paid Search
+1333,2026-01-19,United Kingdom,Paid Search
+1334,2026-03-09,United Kingdom,Affiliate
+1335,2026-03-03,Sweden,Organic
+1336,2026-03-10,United Kingdom,Social
+1337,2026-01-23,Malta,Affiliate
+1338,2026-01-01,United Kingdom,Paid Search
+1339,2026-02-21,Sweden,Affiliate
+1340,2026-02-22,United Kingdom,Paid Search
+1341,2026-02-02,Sweden,Affiliate
+1342,2026-02-17,Malta,Organic
+1343,2026-01-02,Malta,Affiliate
+1344,2026-02-01,Malta,Social
+1345,2026-03-12,United Kingdom,Paid Search
+1346,2026-02-03,Malta,Affiliate
+1347,2026-02-20,Sweden,Paid Search
+1348,2026-03-02,Germany,Organic
+1349,2026-01-10,United Kingdom,Affiliate
+1350,2026-01-06,Sweden,Paid Search
+1351,2026-01-03,Germany,Affiliate
+1352,2026-01-27,Malta,Paid Search
+1353,2026-03-10,Sweden,Affiliate
+1354,2026-03-06,Sweden,Affiliate
+1355,2026-02-21,Malta,Organic
+1356,2026-01-25,Germany,Paid Search
+1357,2026-03-07,United Kingdom,Organic
+1358,2026-01-15,Sweden,Affiliate
+1359,2026-03-09,Germany,Paid Search
+1360,2026-02-01,Germany,Organic
+1361,2026-01-08,Germany,Affiliate
+1362,2026-02-09,Malta,Affiliate
+1363,2026-02-02,Germany,Social
+1364,2026-02-18,United Kingdom,Affiliate
+1365,2026-01-04,Sweden,Affiliate
+1366,2026-03-11,Germany,Organic
+1367,2026-02-11,Sweden,Paid Search
+1368,2026-03-10,Germany,Organic
+1369,2026-01-16,United Kingdom,Organic
+1370,2026-01-04,Germany,Organic
+1371,2026-02-06,United Kingdom,Affiliate
+1372,2026-02-16,Malta,Paid Search
+1373,2026-02-03,United Kingdom,Affiliate
+1374,2026-02-22,Sweden,Paid Search
+1375,2026-01-30,Sweden,Organic
+1376,2026-02-19,United Kingdom,Social
+1377,2026-02-24,United Kingdom,Social
+1378,2026-02-23,United Kingdom,Affiliate
+1379,2026-02-08,United Kingdom,Paid Search
+1380,2026-01-30,United Kingdom,Organic
+1381,2026-03-13,Malta,Organic
+1382,2026-02-18,Germany,Affiliate
+1383,2026-02-21,United Kingdom,Paid Search
+1384,2026-01-04,Sweden,Affiliate
+1385,2026-02-02,United Kingdom,Affiliate
+1386,2026-02-14,Sweden,Organic
+1387,2026-01-15,United Kingdom,Organic
+1388,2026-01-13,Sweden,Affiliate
+1389,2026-02-05,Germany,Paid Search
+1390,2026-02-06,Sweden,Affiliate
+1391,2026-03-14,Germany,Affiliate
+1392,2026-01-01,Malta,Social
+1393,2026-02-21,Germany,Paid Search
+1394,2026-01-07,United Kingdom,Paid Search
+1395,2026-01-03,Sweden,Affiliate
+1396,2026-01-15,Malta,Social
+1397,2026-01-16,Germany,Organic
+1398,2026-02-25,Germany,Social
+1399,2026-03-05,United Kingdom,Paid Search
+1400,2026-01-26,United Kingdom,Organic
+1401,2026-01-23,Sweden,Affiliate
+1402,2026-02-26,United Kingdom,Organic
+1403,2026-03-01,United Kingdom,Affiliate
+1404,2026-02-07,Germany,Organic
+1405,2026-01-29,United Kingdom,Organic
+1406,2026-01-28,Germany,Organic
+1407,2026-01-04,Sweden,Paid Search
+1408,2026-02-08,Germany,Organic
+1409,2026-01-10,United Kingdom,Affiliate
+1410,2026-03-15,Malta,Paid Search
+1411,2026-01-22,Germany,Affiliate
+1412,2026-03-06,Malta,Organic
+1413,2026-01-22,Sweden,Affiliate
+1414,2026-02-22,United Kingdom,Paid Search
+1415,2026-02-11,Sweden,Social
+1416,2026-03-10,Sweden,Social
+1417,2026-03-10,Sweden,Organic
+1418,2026-01-29,Sweden,Paid Search
+1419,2026-01-02,United Kingdom,Affiliate
+1420,2026-03-11,United Kingdom,Paid Search
+1421,2026-01-20,Malta,Organic
+1422,2026-01-05,United Kingdom,Organic
+1423,2026-01-19,United Kingdom,Organic
+1424,2026-01-16,Germany,Social
+1425,2026-03-01,Sweden,Social
+1426,2026-01-10,United Kingdom,Paid Search
+1427,2026-02-13,Sweden,Organic
+1428,2026-01-31,Germany,Social
+1429,2026-02-05,Sweden,Organic
+1430,2026-01-04,Sweden,Affiliate
+1431,2026-02-25,Sweden,Social
+1432,2026-01-11,Sweden,Paid Search
+1433,2026-01-18,Sweden,Paid Search
+1434,2026-01-16,Sweden,Social
+1435,2026-02-10,Sweden,Affiliate
+1436,2026-01-23,Sweden,Affiliate
+1437,2026-01-10,United Kingdom,Organic
+1438,2026-01-07,Sweden,Affiliate
+1439,2026-01-08,Germany,Paid Search
+1440,2026-03-09,United Kingdom,Organic
+1441,2026-03-14,United Kingdom,Affiliate
+1442,2026-01-22,Malta,Paid Search
+1443,2026-03-03,Sweden,Affiliate
+1444,2026-01-27,Germany,Paid Search
+1445,2026-01-18,United Kingdom,Organic
+1446,2026-03-03,United Kingdom,Organic
+1447,2026-02-06,Sweden,Paid Search
+1448,2026-03-09,United Kingdom,Organic
+1449,2026-01-25,Malta,Affiliate
+1450,2026-02-03,Germany,Social
+1451,2026-02-12,Malta,Social
+1452,2026-01-05,Malta,Paid Search
+1453,2026-02-09,Malta,Affiliate
+1454,2026-02-19,Malta,Organic
+1455,2026-01-20,Sweden,Affiliate
+1456,2026-03-15,United Kingdom,Paid Search
+1457,2026-02-15,Sweden,Affiliate
+1458,2026-01-19,Germany,Affiliate
+1459,2026-01-14,United Kingdom,Paid Search
+1460,2026-01-22,United Kingdom,Organic
+1461,2026-03-10,United Kingdom,Affiliate
+1462,2026-01-01,Germany,Social
+1463,2026-02-28,United Kingdom,Organic
+1464,2026-03-12,Sweden,Organic
+1465,2026-01-18,Malta,Affiliate
+1466,2026-01-22,United Kingdom,Affiliate
+1467,2026-01-16,Sweden,Paid Search
+1468,2026-01-29,United Kingdom,Organic
+1469,2026-02-28,United Kingdom,Organic
+1470,2026-01-16,United Kingdom,Social
+1471,2026-03-12,Sweden,Affiliate
+1472,2026-02-08,Germany,Social
+1473,2026-02-25,United Kingdom,Affiliate
+1474,2026-03-16,Germany,Organic
+1475,2026-01-15,Germany,Paid Search
+1476,2026-02-01,United Kingdom,Organic
+1477,2026-03-15,Sweden,Organic
+1478,2026-01-26,Germany,Affiliate
+1479,2026-03-07,Malta,Paid Search
+1480,2026-02-26,Sweden,Organic
+1481,2026-02-01,Sweden,Paid Search
+1482,2026-01-19,Sweden,Organic
+1483,2026-02-11,Sweden,Social
+1484,2026-01-18,United Kingdom,Organic
+1485,2026-02-07,Germany,Affiliate
+1486,2026-03-06,United Kingdom,Organic
+1487,2026-03-01,Sweden,Paid Search
+1488,2026-03-02,United Kingdom,Affiliate
+1489,2026-03-09,United Kingdom,Social
+1490,2026-01-20,Malta,Paid Search
+1491,2026-02-17,United Kingdom,Social
+1492,2026-01-31,United Kingdom,Affiliate
+1493,2026-03-02,United Kingdom,Affiliate
+1494,2026-03-15,United Kingdom,Affiliate
+1495,2026-02-19,Sweden,Organic
+1496,2026-03-06,United Kingdom,Paid Search
+1497,2026-01-26,Malta,Affiliate
+1498,2026-01-08,United Kingdom,Affiliate
+1499,2026-02-14,Malta,Organic
+1500,2026-01-07,Germany,Paid Search
